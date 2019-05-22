@@ -1,0 +1,18 @@
+atom-beautify
+autocomplete-paths
+color-picker
+emmet
+highlight-selected
+japanese-menu
+javascript-snippets
+jquery-snippets
+jumpy
+linter
+minimap
+minimap-autohide
+minimap-highlight-selected
+pigments
+platformio-ide-terminal
+seti-syntax
+seti-ui
+Mahou Shoujo
